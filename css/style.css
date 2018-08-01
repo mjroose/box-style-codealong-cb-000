@@ -345,7 +345,7 @@ section {
   height: 221px;
 }
 
-#details.col-1 {
+#details div.col-1 {
   background: none;
 }
 
