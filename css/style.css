@@ -179,6 +179,7 @@ img, video, audio, iframe, table, form {
 
 [class*="col-"] {
   margin-left: 2%;
+  background: white;
 }
 
 .first {
@@ -342,6 +343,10 @@ section {
 
 #details div {
   height: 221px;
+}
+
+#details.col-1 {
+  background: none;
 }
 
 #details a:link, #details a:visited {
