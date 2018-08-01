@@ -179,7 +179,6 @@ img, video, audio, iframe, table, form {
 
 [class*="col-"] {
   margin-left: 2%;
-  background: white;
 }
 
 .first {
