@@ -209,10 +209,17 @@ header {
   margin: 0 0 30px 0;
 }
 
-
 /*////////// NAVBAR //////////*/
 
-
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid #ccc;
+  text-align: center;
+}
 
 /*////////// LOGO //////////*/
 
